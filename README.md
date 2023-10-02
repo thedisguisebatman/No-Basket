@@ -1,2 +1,2 @@
 # No-Basket
-Online Grocery Store
+Online Grocery Store designed using Vue JS and Flask
